@@ -9,3 +9,6 @@ If it doesn't work with your Magento 2 Instance, please fork it and fix it -- an
 Redirect simple products to their configurable parent product with automatically pre-selected configurable attributes by installing this extension.
 
 For questions, comments and information about this extension, please visit [this tutorial](https://daan.dev/magento/2/redirect-simple-products-configurable-parent-attributes-pre-selected/).
+
+
+https://bsscommerce.com/blog/magento-2-simple-product-redirect-to-configurable/
